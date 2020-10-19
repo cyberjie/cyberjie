@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there 👋 Welcome
+
 - 🔭 I’m currently working on home
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on future
 - 🤔 I’m looking for help with you
 - 💬 Ask me about ...
